@@ -1,5 +1,7 @@
 # Credit-Card-Fraud-Analysis-using-Machine-Learning
-It's a python implementation based project - # Credit Card Fraud Detection.pdf
+
+## Credit Card Fraud Detection.pdf
+It's a python implementation based project - 
 
 The following steps has been performed for correct modelling :-
 1. Exploratory Data Analysis
@@ -20,3 +22,6 @@ The following steps has been performed for correct modelling :-
       
 4. Use of SMOTE Algorithm for data balancing
        -> And then retraining the model to see the difference.
+       
+       
+## Credit card approval using ML with Chi_square and ANOVA test in python.       
