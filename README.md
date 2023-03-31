@@ -29,6 +29,7 @@ The following steps has been performed for correct modelling :-
 ### Chi_Sq and ANNOVA.pdf
 
 Problem Statement:
+
 Banks wants to know, whether credit facility will extend to the customer based on the
 customer data, for this analysis bank is using individual customer geography details,
 gender, income, industry employement and experience.
