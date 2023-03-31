@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Analysis-using-Machine-Learning
 
-## Credit Card Fraud Detection.pdf
+### Credit Card Fraud Detection.pdf
 It's a python implementation based project - 
 
 The following steps has been performed for correct modelling :-
@@ -24,4 +24,15 @@ The following steps has been performed for correct modelling :-
        -> And then retraining the model to see the difference.
        
        
-## Credit card approval using ML with Chi_square and ANOVA test in python.       
+# Credit card approval using ML with Chi_square and ANOVA test in python.  
+
+### Chi_Sq and ANNOVA.pdf
+
+Problem Statement:
+Banks wants to know, whether credit facility will extend to the customer based on the
+customer data, for this analysis bank is using individual customer geography details,
+gender, income, industry employement and experience.
+Using Chi2_square_test and ANNOVA test and different ML algo, we are trying to suggest
+the bank
+
+
